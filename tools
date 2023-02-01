@@ -1,0 +1,53 @@
+This is a list of the most helpful tools that I have found as a Mac Admin, along with a description of each tool, the source, and instructions for manual installation. The 'install-all-admin-tools.sh' script can be used to install all of these items at once.
+
+-----
+-- Install First --
+
+Homebrew
+  - Description: Package manager for macOS, check out other things that Homebrew can install here: https://formulae.brew.sh/cask/
+  - Source: https://brew.sh/
+  - How to Install: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ 
+-----
+-- Install via Homebrew --
+
+CodeRunner:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask coderunner
+  
+GitHub:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask github
+
+iTerm:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask iterm2
+
+jamf-migrator:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask jamf-migrator
+
+Microsoft Remote Desktop:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask microsoft-remote-desktop
+
+Pacifist:
+  - Description:
+  - Source:
+  - How to Install:
+  - brew install --cask pacifist
+
+Postman:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask postman
+
+Visual Studio Code:
+  - Description:
+  - Source:
+  - How to Install: brew install --cask visual-studio-code
