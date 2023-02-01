@@ -79,6 +79,11 @@ Jamf Migrator
   - Description: Can be used to export XML backups of all objects and/or migrate objects from one server to another via a GUI for the Jamf API.
   - Source: https://github.com/jamf/JamfMigrator
   - How to Install:
+
+DEP Notify
+  - Description: DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. The app is focused on being very simple to use and easy to deploy.
+  - Source: https://gitlab.com/Mactroll/DEPNotify
+  - How to Install:
   
 DEP Notify Setup Helper
   - Description: This can be used to create a DEPNotify script from a GUI. Haven't tried it but looks interesting.
@@ -98,4 +103,19 @@ MUT
 Object Info
   - Description: Wondering what packages or scripts are scoped to what policies? Or what configuration profiles contain a certain payload? Need an overview of all your network segments? How about finding out what object(s) smart/static groups are attached to? Object info looks to summarize these things and more.
   - Source: https://github.com/BIG-RAT/Object-Info
+  - How to Install:
+
+JamfStatus
+  - Description: Keep an eye on the status of Jamf Cloud with jamfStatus. The app will place an icon in the menu bar to reflect the current cloud status.
+  - Source: https://github.com/jamf/jamfStatus
+  - How to Install:
+  
+Jamf Connect Resources
+  - Description: This repository contains open-source resources for use with or alongside Jamf Connect.
+  - Source: https://github.com/jamf/jamfconnect
+  - How to Install:
+  
+macOS Security and Compliance Project
+  - Description: The macOS Security Compliance Project is an open source effort to provide a programmatic approach to generating security guidance.
+  - Source: https://github.com/usnistgov/macos_security
   - How to Install:
