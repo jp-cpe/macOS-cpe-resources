@@ -51,3 +51,51 @@ Visual Studio Code:
   - Description:
   - Source:
   - How to Install: brew install --cask visual-studio-code
+  
+-----
+-- Install via Other --
+
+Apple Configurator 2
+  - Description:
+  - Source:
+  - How to Install:
+  
+Apple Remote Desktop
+  - Description:
+  - Source:
+  - How to Install:
+  
+Xcode
+  - Description:
+  - Source:
+  - How to Install:
+  
+Prune
+  - Description: Helps clean up the Jamf Pro Server by searching and optionally deleting unused objects.
+  - Source: https://github.com/BIG-RAT/Prune
+  - How to Install:
+  
+Jamf Migrator
+  - Description: Can be used to export XML backups of all objects and/or migrate objects from one server to another via a GUI for the Jamf API.
+  - Source: https://github.com/jamf/JamfMigrator
+  - How to Install:
+  
+DEP Notify Setup Helper
+  - Description: This can be used to create a DEPNotify script from a GUI. Haven't tried it but looks interesting.
+  - Source: https://github.com/BIG-RAT/DEPNotify-Set-up-Helper
+  - How to Install:
+
+Nudge
+  - Description: This can be used to nudge users to update their macOS a lot more aggressively and in a nice GUI.
+  - Source: https://github.com/macadmins/nudge
+  - How to Install:
+ 
+MUT
+  - Description: The MUT is a native macOS application written in Swift, which allows Jamf admins to make mass updates to attributes (such as username, asset tag, or extension attribute) of their devices and users in Jamf.
+  - Source: https://github.com/jamf/mut
+  - How to Install:
+  
+Object Info
+  - Description: Wondering what packages or scripts are scoped to what policies? Or what configuration profiles contain a certain payload? Need an overview of all your network segments? How about finding out what object(s) smart/static groups are attached to? Object info looks to summarize these things and more.
+  - Source: https://github.com/BIG-RAT/Object-Info
+  - How to Install:
