@@ -119,3 +119,43 @@ macOS Security and Compliance Project
   - Description: The macOS Security Compliance Project is an open source effort to provide a programmatic approach to generating security guidance.
   - Source: https://github.com/usnistgov/macos_security
   - How to Install:
+  
+Jamf Connect Configuration App
+  - Description: 
+  - Source: 
+  - How to Install:
+
+Jamfcpr
+  - Description: 
+  - Source: 
+  - How to Install:
+  
+PPPC Utility
+  - Description: 
+  - Source: 
+  - How to Install:
+  
+Push Diagnostics
+  - Description: 
+  - Source: 
+  - How to Install:
+
+ReEnroller
+  - Description: 
+  - Source: 
+  - How to Install:
+  
+SUS Inspector
+  - Description: 
+  - Source: 
+  - How to Install:
+  
+Suspicious Package
+  - Description: 
+  - Source: 
+  - How to Install:
+  
+Wireshark
+  - Description: 
+  - Source: 
+  - How to Install:
