@@ -43,9 +43,13 @@ Pacifist:
   - brew install --cask pacifist
 
 Postman:
-  - Description:
-  - Source:
+  - Description: Set up environment for testing Jamf API calls.
+  - Source: https://www.postman.com/downloads/
   - How to Install: brew install --cask postman
+
+Postman Collections for Jamf Pro & Classic API:
+  - Description: Import a collection of all Jamf endpoints and test calls.
+  - Source: https://developer.jamf.com/jamf-pro/docs/client-credentials
 
 Visual Studio Code:
   - Description:
@@ -151,11 +155,25 @@ SUS Inspector
   - How to Install:
   
 Suspicious Package
-  - Description: 
-  - Source: 
+  - Description: Inspect the contents of .pkg's without installing them.
+  - Source: https://mothersruin.com/software/SuspiciousPackage/
   - How to Install:
   
 Wireshark
   - Description: 
   - Source: 
+  - How to Install:
+
+Jamf Compliance Editor
+  - Description: Implement macOS Security & Compliance Project via a GUI
+  - Source: https://trusted.jamf.com/docs/establishing-compliance-baselines
+  - How to Install:
+
+Jamf Pro Best Practice Rubric
+  - Description: Great checklist for Jamf Pro
+  - Source: https://drive.google.com/file/d/1z-1znRr6Aos40YOQPFzvGUMXeYpKWd7L/view?usp=sharing
+
+Installomator
+  - Description: Automate the patching of 3rd-party software
+  - Source: https://github.com/Installomator/Installomator
   - How to Install:
