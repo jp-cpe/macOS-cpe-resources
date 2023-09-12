@@ -150,8 +150,8 @@ ReEnroller
   - How to Install:
   
 SUS Inspector
-  - Description: 
-  - Source: 
+  - Description: Inspect Apple macOS software updates.
+  - Source: https://github.com/hjuutilainen/sus-inspector
   - How to Install:
   
 Suspicious Package
@@ -177,3 +177,17 @@ Installomator
   - Description: Automate the patching of 3rd-party software
   - Source: https://github.com/Installomator/Installomator
   - How to Install:
+
+IBM Notifier
+  - Description: The purpose of this project is to provide an useful tool to system administrators to trigger interactive popups and notification banners to the end user.
+  - Source: https://github.com/IBM/mac-ibm-notifications
+
+Privileges
+  - Description: Allow users to work as a standard user for day-to-day use, but provide a quick and easy way to get administrator rights when needed.
+  - Source: https://github.com/SAP/macOS-enterprise-privileges
+
+Push Diagnostics
+  - Description: Push Diagnostics is a simple to use utility that will quickly verify that the appropriate hosts for Enterprise Apple environments can be reached on their respective ports from any network you are on.
+  - Source: https://apps.apple.com/us/app/push-diagnostics/id689859502?mt=12
+
+
