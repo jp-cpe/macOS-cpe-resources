@@ -1,182 +1,139 @@
-This is a list of the most helpful tools that I have found as a Mac Admin, along with a description of each tool, the source, and instructions for manual installation. The 'install-all-admin-tools.sh' script can be used to install all of these items at once.
+This is a list of the most helpful tools that I have found as a Mac Admin, along with a description of each tool, the source, and instructions for installation via HomeBrew if applicable.
 
 -----
--- Install First --
 
 Homebrew
   - Description: Package manager for macOS, check out other things that Homebrew can install here: https://formulae.brew.sh/cask/
   - Source: https://brew.sh/
   - How to Install: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
- 
------
--- Install via Homebrew --
 
 CodeRunner:
   - Description:
   - Source:
-  - How to Install: brew install --cask coderunner
+  - How to Install via HomeBrew: brew install --cask coderunner
   
 GitHub:
   - Description:
   - Source:
-  - How to Install: brew install --cask github
+  - How to Install via HomeBrew: brew install --cask github
 
 iTerm:
   - Description:
   - Source:
-  - How to Install: brew install --cask iterm2
+  - How to Install via HomeBrew: brew install --cask iterm2
 
-jamf-migrator:
+Jamf-migrator:
   - Description:
   - Source:
-  - How to Install: brew install --cask jamf-migrator
+  - How to Install via HomeBrew: brew install --cask jamf-migrator
 
 Microsoft Remote Desktop:
   - Description:
   - Source:
-  - How to Install: brew install --cask microsoft-remote-desktop
+  - How to Install via HomeBrew: brew install --cask microsoft-remote-desktop
 
 Pacifist:
   - Description:
   - Source:
-  - How to Install:
-  - brew install --cask pacifist
+  - How to Install via HomeBrew: brew install --cask pacifist
 
 Postman:
   - Description: Set up environment for testing Jamf API calls.
   - Source: https://www.postman.com/downloads/
-  - How to Install: brew install --cask postman
-
-Postman Collections for Jamf Pro & Classic API:
-  - Description: Import a collection of all Jamf endpoints and test calls.
-  - Source: https://developer.jamf.com/jamf-pro/docs/client-credentials
+  - How to Install via HomeBrew: brew install --cask postman
 
 Visual Studio Code:
   - Description:
   - Source:
-  - How to Install: brew install --cask visual-studio-code
-  
------
--- Install via Other --
+  - How to Install via HomeBrew: brew install --cask visual-studio-code
 
 Apple Configurator 2
   - Description:
   - Source:
-  - How to Install:
   
 Apple Remote Desktop
   - Description:
   - Source:
-  - How to Install:
   
 Xcode
   - Description:
   - Source:
-  - How to Install:
   
 Prune
   - Description: Helps clean up the Jamf Pro Server by searching and optionally deleting unused objects.
   - Source: https://github.com/BIG-RAT/Prune
-  - How to Install:
   
 Jamf Migrator
   - Description: Can be used to export XML backups of all objects and/or migrate objects from one server to another via a GUI for the Jamf API.
   - Source: https://github.com/jamf/JamfMigrator
-  - How to Install:
 
 DEP Notify
   - Description: DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. The app is focused on being very simple to use and easy to deploy.
   - Source: https://gitlab.com/Mactroll/DEPNotify
-  - How to Install:
   
 DEP Notify Setup Helper
   - Description: This can be used to create a DEPNotify script from a GUI. Haven't tried it but looks interesting.
   - Source: https://github.com/BIG-RAT/DEPNotify-Set-up-Helper
-  - How to Install:
 
 Nudge
   - Description: This can be used to nudge users to update their macOS a lot more aggressively and in a nice GUI.
   - Source: https://github.com/macadmins/nudge
-  - How to Install:
  
 MUT
   - Description: The MUT is a native macOS application written in Swift, which allows Jamf admins to make mass updates to attributes (such as username, asset tag, or extension attribute) of their devices and users in Jamf.
   - Source: https://github.com/jamf/mut
-  - How to Install:
   
 Object Info
   - Description: Wondering what packages or scripts are scoped to what policies? Or what configuration profiles contain a certain payload? Need an overview of all your network segments? How about finding out what object(s) smart/static groups are attached to? Object info looks to summarize these things and more.
   - Source: https://github.com/BIG-RAT/Object-Info
-  - How to Install:
 
 JamfStatus
   - Description: Keep an eye on the status of Jamf Cloud with jamfStatus. The app will place an icon in the menu bar to reflect the current cloud status.
   - Source: https://github.com/jamf/jamfStatus
-  - How to Install:
-  
-Jamf Connect Resources
-  - Description: This repository contains open-source resources for use with or alongside Jamf Connect.
-  - Source: https://github.com/jamf/jamfconnect
-  - How to Install:
   
 macOS Security and Compliance Project
   - Description: The macOS Security Compliance Project is an open source effort to provide a programmatic approach to generating security guidance.
   - Source: https://github.com/usnistgov/macos_security
-  - How to Install:
   
 Jamf Connect Configuration App
   - Description: 
   - Source: 
-  - How to Install:
 
 Jamfcpr
   - Description: 
   - Source: 
-  - How to Install:
   
 PPPC Utility
   - Description: 
   - Source: 
-  - How to Install:
   
 Push Diagnostics
   - Description: 
   - Source: 
-  - How to Install:
 
 ReEnroller
   - Description: 
   - Source: 
-  - How to Install:
   
 SUS Inspector
   - Description: Inspect Apple macOS software updates.
   - Source: https://github.com/hjuutilainen/sus-inspector
-  - How to Install:
   
 Suspicious Package
   - Description: Inspect the contents of .pkg's without installing them.
   - Source: https://mothersruin.com/software/SuspiciousPackage/
-  - How to Install:
   
 Wireshark
   - Description: 
   - Source: 
-  - How to Install:
 
 Jamf Compliance Editor
   - Description: Implement macOS Security & Compliance Project via a GUI
   - Source: https://trusted.jamf.com/docs/establishing-compliance-baselines
-  - How to Install:
-
-Jamf Pro Best Practice Rubric
-  - Description: Great checklist for Jamf Pro
-  - Source: https://drive.google.com/file/d/1z-1znRr6Aos40YOQPFzvGUMXeYpKWd7L/view?usp=sharing
 
 Installomator
   - Description: Automate the patching of 3rd-party software
   - Source: https://github.com/Installomator/Installomator
-  - How to Install:
 
 IBM Notifier
   - Description: The purpose of this project is to provide an useful tool to system administrators to trigger interactive popups and notification banners to the end user.
@@ -189,5 +146,3 @@ Privileges
 Push Diagnostics
   - Description: Push Diagnostics is a simple to use utility that will quickly verify that the appropriate hosts for Enterprise Apple environments can be reached on their respective ports from any network you are on.
   - Source: https://apps.apple.com/us/app/push-diagnostics/id689859502?mt=12
-
-
