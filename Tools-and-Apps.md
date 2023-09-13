@@ -1,3 +1,4 @@
+# Tools and Applications
 This is a list of the most helpful tools that I have found as a Mac Admin, along with a description of each tool, the source, and instructions for installation via HomeBrew if applicable.
 
 -----
