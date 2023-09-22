@@ -109,16 +109,16 @@ Jamfcpr
   - Source: 
   
 PPPC Utility
-  - Description: 
-  - Source: 
+  - Description: PPPC Utility is a macOS (10.15 and newer) application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS. The profiles can be saved locally, signed or unsigned. Profiles can also be uploaded directly to a Jamf Pro server.
+  - Source: https://github.com/jamf/PPPC-Utility
   
 Push Diagnostics
-  - Description: 
-  - Source: 
+  - Description: Push Diagnostics is a simple to use utility that will quickly verify that the appropriate hosts can be reached on their respective ports from any network you are on.
+  - Source: https://apps.apple.com/us/app/push-diagnostics/id689859502?mt=12
 
 ReEnroller
-  - Description: 
-  - Source: 
+  - Description: Easily migrate a computer from one Jamf server to another.
+  - Source: https://github.com/jamf/ReEnroller
   
 SUS Inspector
   - Description: Inspect Apple macOS software updates.
@@ -129,8 +129,8 @@ Suspicious Package
   - Source: https://mothersruin.com/software/SuspiciousPackage/
   
 Wireshark
-  - Description: 
-  - Source: 
+  - Description: Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. 
+  - Source: https://www.wireshark.org/download.html
 
 Jamf Compliance Editor
   - Description: Implement macOS Security & Compliance Project via a GUI
