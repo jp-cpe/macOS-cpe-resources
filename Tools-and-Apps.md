@@ -8,6 +8,10 @@ Homebrew
   - Source: https://brew.sh/
   - How to Install: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+BetterSnapTool
+  - Description: Easily resize and organize application windows. Snap windows to fit halfway to the right/left of your screen, similar to default Windows functionality.
+  - Source: https://apps.apple.com/us/app/bettersnaptool/id417375580?mt=12
+
 CodeRunner:
   - Description:
   - Source:
@@ -44,7 +48,7 @@ Postman:
   - How to Install via HomeBrew: brew install --cask postman
 
 Visual Studio Code:
-  - Description:
+  - Description: The best code editor (IMHO)
   - Source:
   - How to Install via HomeBrew: brew install --cask visual-studio-code
 
