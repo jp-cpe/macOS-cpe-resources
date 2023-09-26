@@ -27,10 +27,9 @@ iTerm:
   - Source:
   - How to Install via HomeBrew: brew install --cask iterm2
 
-Jamf-migrator:
-  - Description:
-  - Source:
-  - How to Install via HomeBrew: brew install --cask jamf-migrator
+OhMyZSH:
+  - Description: Customize your terminal
+  - Source: https://github.com/ohmyzsh/ohmyzsh
 
 Microsoft Remote Desktop:
   - Description:
@@ -71,6 +70,7 @@ Prune
 Jamf Migrator
   - Description: Can be used to export XML backups of all objects and/or migrate objects from one server to another via a GUI for the Jamf API.
   - Source: https://github.com/jamf/JamfMigrator
+  - How to Install via HomeBrew: brew install --cask jamf-migrator
 
 DEP Notify
   - Description: DEPNotify is a small light weight notification app that was designed to let your users know what's going on during a DEP enrollment. The app is focused on being very simple to use and easy to deploy.
