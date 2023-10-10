@@ -127,7 +127,7 @@ Suspicious Package
 
 Visual Studio Code:
   - Description: The best code editor (IMHO)
-  - Source:
+  - Source: https://code.visualstudio.com/download
   - How to Install via HomeBrew: brew install --cask visual-studio-code
 
 Wireshark
