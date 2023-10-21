@@ -111,7 +111,7 @@ Privileges
 
 Push Diagnostics
   - Description: Push Diagnostics is a simple-to-use utility that will quickly verify that the appropriate hosts can be reached on their respective ports from any network you are on.
-  - Source: https://apps.apple.com/us/app/push-diagnostics/id689859502?mt=12
+  - Source: https://apps.apple.com/us/app/push-diagnostics/id689859502?mt=12 | https://twocanoes.com/products/mac/push-diagnostics/
 
 ReEnroller
   - Description: Easily migrate a computer from one Jamf server to another.
