@@ -6,12 +6,8 @@ This is a list of the most helpful tools that I have found as a Mac Admin, along
 # Tools and Applications
 
 Apple Configurator 2
-  - Description:
-  - Source:
-
-Apple Remote Desktop
-  - Description:
-  - Source:
+  - Description: Configure/Reset/Refresh macOS and iOS devices via USB.
+  - Source: https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12
 
 BetterSnapTool
   - Description: Easily resize and organize application windows. Snap windows to fit halfway to the right/left of your screen, similar to default Windows functionality.
