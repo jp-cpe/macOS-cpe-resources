@@ -87,6 +87,10 @@ Object Info
   - Description: Wondering what packages or scripts are scoped to what policies? Or what configuration profiles contain a certain payload? Need an overview of all your network segments? How about finding out what object(s) smart/static groups are attached to? Object info looks to summarize these things and more.
   - Source: https://github.com/BIG-RAT/Object-Info
 
+Oh My ZSH
+- Description:
+- Source: https://ohmyz.sh
+
 Pacifist:
   - Description:
   - Source:
