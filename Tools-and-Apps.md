@@ -88,7 +88,7 @@ Object Info
   - Source: https://github.com/BIG-RAT/Object-Info
 
 Oh My ZSH
-- Description:
+- Description: Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 - Source: https://ohmyz.sh
 
 Pacifist:
