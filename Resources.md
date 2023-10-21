@@ -32,6 +32,7 @@ Github:
   - My GitHub: https://github.com/jp-cpe (check out the people I follow and the repositories I have starred)
   - Dan Snelson: https://github.com/dan-snelson
   - Kandji Inc.: https://github.com/kandji-inc/support
+  - Graham Gilbert: https://github.com/grahamgilbert
   - Graham Pugh: https://github.com/grahampugh
   - Sean Rabbitt: https://github.com/sean-rabbitt
   - Alectrona: https://github.com/alectrona
