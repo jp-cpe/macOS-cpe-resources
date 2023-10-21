@@ -117,6 +117,10 @@ ReEnroller
   - Description: Easily migrate a computer from one Jamf server to another.
   - Source: https://github.com/jamf/ReEnroller
 
+Smart Card Utility
+  - Description: Easily manage your Smart Cards in macOS
+  - Source: https://twocanoes.com/products/mac/smart-card-utility/
+
 SUS Inspector
   - Description: Inspect Apple macOS software updates.
   - Source: https://github.com/hjuutilainen/sus-inspector
