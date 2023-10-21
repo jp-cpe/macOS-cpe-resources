@@ -50,44 +50,44 @@
 - `Location:` Gothenburg, Sweden
 - `Date:` October
 
-2. JNUC (Jamf Nation User Conference): 
-	- JNUC is an annual event organized by Jamf, a popular provider of Apple device management solutions. While it is not exclusively focused on macOS administration, it covers a wide range of topics related to Apple device management, including macOS deployment and administration.
-	- https://www.jamf.com/events/jamf-nation-user-conference/2022/
-	- Various Locations
-	- September
+### 2. JNUC (Jamf Nation User Conference): 
+- `Description:` JNUC is an annual event organized by Jamf, a popular provider of Apple device management solutions. While it is not exclusively focused on macOS administration, it covers a wide range of topics related to Apple device management, including macOS deployment and administration.
+- `Source:` https://www.jamf.com/events/jamf-nation-user-conference/2022/
+- `Location:` Various Locations
+- `Date:` September
 
-3. MacAdmins Conference: 
-	- MacAdmins Conference, previously known as PSU Mac Admins, is an annual conference held at Penn State University in the United States. It brings together macOS and iOS administrators, offering sessions on various topics, including deployment, security, automation, and software management.
-	- https://macadmins.psu.edu
-	- Penn State University
-	- July
+### 3. MacAdmins Conference: 
+- `Description:` MacAdmins Conference, previously known as PSU Mac Admins, is an annual conference held at Penn State University in the United States. It brings together macOS and iOS administrators, offering sessions on various topics, including deployment, security, automation, and software management.
+- `Source:` https://macadmins.psu.edu
+- `Location:` Penn State University
+- `Date:` July
 
-4. MacDeployment Conference: 
-	- MacDeployment Conference is an annual event held in Calgary, Canada, focused on macOS and iOS management and deployment. It features presentations and workshops on a wide range of topics related to Apple device administration.
-	- https://macdeployment.ca
-	- Calgary, Canada
-	- June
+### 4. MacDeployment Conference: 
+- `Description:` MacDeployment Conference is an annual event held in Calgary, Canada, focused on macOS and iOS management and deployment. It features presentations and workshops on a wide range of topics related to Apple device administration.
+- `Source:` https://macdeployment.ca
+- `Location:` Calgary, Canada
+- `Date:` June
 
-5. MacTech Conference: 
-	- MacTech Conference is an annual event that covers various aspects of Apple technology, including macOS administration. While it is not exclusively targeted at macOS administrators, it offers sessions and workshops on macOS management, security, and deployment.
-	- https://conference.mactech.com
-	- Southern California
-	- October/November
+### 5. MacTech Conference: 
+- `Description:` MacTech Conference is an annual event that covers various aspects of Apple technology, including macOS administration. While it is not exclusively targeted at macOS administrators, it offers sessions and workshops on macOS management, security, and deployment.
+- `Source:` https://conference.mactech.com
+- `Location:` Southern California
+- `Date:` October/November
 
-6. MacDevOpsYVR:
-	- MacDevOps YVR is the annual conference for Mac Admins interested in integrating DevOps into their IT practice.
-	- https://mdoyvr.com
-	- Vancouver, BC, Canada
-	- June
+### 6. MacDevOpsYVR:
+- `Description:` MacDevOps YVR is the annual conference for Mac Admins interested in integrating DevOps into their IT practice.
+- `Source:` https://mdoyvr.com
+- `Location:` Vancouver, BC, Canada
+- `Date:` June
 
-7. WWDC:
-	- Apple's Annual Tech Conference
-	- https://developer.apple.com/wwdc23/
-	- Cupertino, CA | Virtual
-	- June
+### 7. WWDC:
+- `Description:` Apple's Annual Tech Conference
+- `Source:` https://developer.apple.com/wwdc23/
+- `Location:` Cupertino, CA | Virtual
+- `Date:` June
 
-8. Objective by the Sea:
-  - The Mac Security Conference
-  - https://objectivebythesea.org/v6/index.html
-  - Spain, Europe
-  - October
+### 8. Objective by the Sea:
+- `Description:` The Mac Security Conference
+- `Source:` https://objectivebythesea.org/v6/index.html
+- `Location:` Spain, Europe
+- `Date:` October
