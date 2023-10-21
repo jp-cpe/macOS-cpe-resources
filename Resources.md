@@ -25,7 +25,8 @@
   - Jamf (General): https://www.youtube.com/@JAMFMedia (Check the Playlists for “Jamf Nation User Conference” Videos)
   - Jamf Training and Support: https://www.youtube.com/@JamfTrainingAndSupport
   - Rocketman Tech: https://www.youtube.com/@RocketmanTech
-  - My channel (JP-CPE): https://www.youtube.com/@jp-cpe 
+  - My channel (JP-CPE): https://www.youtube.com/@jp-cpe
+  - Twocanoes Software: https://www.youtube.com/@twocanoessoftware
 
 ## Github:
   - My GitHub: https://github.com/jp-cpe (check out the people I follow and the repositories I have starred)
