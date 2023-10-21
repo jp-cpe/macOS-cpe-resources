@@ -1,34 +1,33 @@
-![image](https://github.com/jp-cpe/macOS-cpe-resources/assets/38440687/0c83a446-b31d-4aec-9e59-37915eafbaab)# Helpful Resources for macOS Client Platform Engineers
-
+# Helpful Resources
 -----
 
-Jamf Pro Best Practices Rubric
+### Jamf Pro Best Practices Rubric
   - Great checklist for assessing your Jamf Pro environment. 
   - Source: From the JNUC 2021 presentation "Between two Jamfs" https://www.modtitan.com/2021/10/resources-from-between-two-jamfs-at.html (https://drive.google.com/file/d/1z-1znRr6Aos40YOQPFzvGUMXeYpKWd7L/view?usp=sharing)
 
-Jamf Connect Resources
+### Jamf Connect Resources
   - This repository contains open-source resources for use with or alongside Jamf Connect.
   - Source: https://github.com/jamf/jamfconnect
 
-Postman Collections for Jamf Pro & Classic API:
+### Postman Collections for Jamf Pro & Classic API:
   - Import a collection of all Jamf endpoints and test calls.
   - Source: https://developer.jamf.com/jamf-pro/docs/client-credentials
 
-Mac Admins Slack
+### Mac Admins Slack
   - A Slack channel with a ton of other Mac Admins at various companies. If you have any questions about mac stuff, the answer is probably in here and if its not then there are people in here that can answer it for you.
   - Source: https://www.macadmins.org
 
-Jamf Marketplace
+### Jamf Marketplace
   - There are a lot of useful tools/integrations here for Jamf.
   - Source: https://marketplace.jamf.com
 
-YouTube Channels:
+### YouTube Channels:
   - Jamf (General): https://www.youtube.com/@JAMFMedia (Check the Playlists for “Jamf Nation User Conference” Videos)
   - Jamf Training and Support: https://www.youtube.com/@JamfTrainingAndSupport
   - Rocketman Tech: https://www.youtube.com/@RocketmanTech
   - My channel (JP-CPE): https://www.youtube.com/@jp-cpe 
 
-Github:
+### Github:
   - My GitHub: https://github.com/jp-cpe (check out the people I follow and the repositories I have starred)
   - Dan Snelson: https://github.com/dan-snelson
   - Kandji Inc.: https://github.com/kandji-inc/support
@@ -41,15 +40,15 @@ Github:
   - Jamf: https://github.com/jamf
   - Bob Gendler: https://github.com/robertgendler
 
-LinkedIn:
+### LinkedIn:
   - My LinkedIn: https://www.linkedin.com/in/jp-cpe/
 
-Conferences:
-1. MacSysAdmin Conference: 
-	- MacSysAdmin is a well-known annual conference held in Gothenburg, Sweden. It focuses on macOS and iOS management and deployment, including topics such as MDM (Mobile Device Management), scripting, security, and more.
-	- https://www.macsysadmin.se
-	- Gothenburg, Sweden
-	- October
+## Conferences:
+### MacSysAdmin Conference: 
+- MacSysAdmin is a well-known annual conference held in Gothenburg, Sweden. It focuses on macOS and iOS management and deployment, including topics such as MDM (Mobile Device Management), scripting, security, and more.
+- https://www.macsysadmin.se
+- Gothenburg, Sweden
+- October
 
 2. JNUC (Jamf Nation User Conference): 
 	- JNUC is an annual event organized by Jamf, a popular provider of Apple device management solutions. While it is not exclusively focused on macOS administration, it covers a wide range of topics related to Apple device management, including macOS deployment and administration.
