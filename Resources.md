@@ -20,8 +20,7 @@
 
 [Conferences](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#conferences)
 
-[Training/Courses](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#training--courses)![image](https://github.com/jp-cpe/macOS-cpe-resources/assets/38440687/c0874104-37ff-4f64-92aa-ddc723739cce)
-
+[Training/Courses](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#training--courses)
 
 ## Jamf Pro Best Practices Rubric
   - Great checklist for assessing your Jamf Pro environment. 
