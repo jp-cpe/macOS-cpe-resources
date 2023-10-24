@@ -1,5 +1,4 @@
 # Helpful Resources
------
 
 ## Table of Contents
 [Jamf Pro Best Practices Rubric](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#jamf-pro-best-practices-rubric)
