@@ -92,3 +92,9 @@
 - `Source:` https://objectivebythesea.org/v6/index.html
 - `Location:` Spain, Europe
 - `Date:` October
+
+## Training / Courses
+- `Basic:` [Jamf 170](https://learn.jamf.com/bundle/jamf-100-course-current/page/Welcome.html), [Jamf 170](https://learn.jamf.com/bundle/jamf-170-course-current/page/Welcome.html), [Apple Certified Support Professional](https://it-training.apple.com/tutorials/apt-support),
+- `Intermediate:` [Jamf 200](https://www.jamf.com/training/online-training/remote-200/), [Apple Certified IT Professional](https://it-training.apple.com/tutorials/apt-deployment), [Apple Business Essentials](https://training.apple.com/it),
+- `Advanced:` [Jamf 300](https://www.jamf.com/training/online-training/remote-300/), [Jamf 370](https://www.jamf.com/training/online-training/remote-370/), [Jamf 400](https://www.jamf.com/training/online-training/remote-400/),
+- 
