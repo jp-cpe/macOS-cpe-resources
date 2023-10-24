@@ -6,6 +6,22 @@
 
 [Jamf Connect Resources](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#jamf-connect-resources)
 
+[Postman Collections for Jamf Pro & Classic API](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#postman-collections-for-jamf-pro--classic-api)
+
+[Mac Admins Slack](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#mac-admins-slack)
+
+[Jamf Marketplace](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#jamf-marketplace)
+
+[YouTube Channels](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#youtube-channels)
+
+[Github](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#github)
+
+[LinkedIn](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#linkedin)
+
+[Conferences](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#conferences)
+
+[Training/Courses](https://github.com/jp-cpe/macOS-cpe-resources/blob/main/Resources.md#training--courses)![image](https://github.com/jp-cpe/macOS-cpe-resources/assets/38440687/c0874104-37ff-4f64-92aa-ddc723739cce)
+
 
 ## Jamf Pro Best Practices Rubric
   - Great checklist for assessing your Jamf Pro environment. 
