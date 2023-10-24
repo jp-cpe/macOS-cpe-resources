@@ -1,6 +1,9 @@
 # Helpful Resources
 -----
 
+## Table of Contents
+
+
 ## Jamf Pro Best Practices Rubric
   - Great checklist for assessing your Jamf Pro environment. 
   - Source: From the JNUC 2021 presentation "Between two Jamfs" https://www.modtitan.com/2021/10/resources-from-between-two-jamfs-at.html (https://drive.google.com/file/d/1z-1znRr6Aos40YOQPFzvGUMXeYpKWd7L/view?usp=sharing)
