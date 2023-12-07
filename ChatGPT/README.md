@@ -1,6 +1,6 @@
 # README
 
-Link to custom GPT for Apple Client Platform Engineering:
+Custom GPT for Apple Client Platform Engineering:
 https://chat.openai.com/g/g-PGauVJg6f-apple-cpe-expert
 
 ## Description: 
