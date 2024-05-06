@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>DisablePersonalSync</key>
+    <true/>
+    <key>DisableTutorial</key>
+    <false/>
+    <key>HideDockIcon</key>
+    <true/>
+    <key>OpenAtLogin</key>
+    <true/>
+    <key>BlockExternalSync</key>
+    <true/>
+    <key>AllowTenantList</key>
+    <dict>
+      <key>{Tenant_ID}</key>
+      <true/>
+    </dict>
+    <key>KFMSilentOptIn</key>
+    <string>{Tenant_ID}</string>
+    <key>KFMSilentOptInWithNotification</key>
+    <true/>
+    <key>KFMBlockOptIn</key>
+    <integer>0</integer>
+    <key>KFMBlockOptOut</key>
+    <true/>
+  </dict>
+</plist>
