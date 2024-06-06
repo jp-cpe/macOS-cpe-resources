@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+zscaler_version=$(defaults read "/Applications/Zscaler/Zscaler.app/Contents/Info.plist" CFBundleShortVersionString)
+
+echo "<result>$zscaler_version</result>"
