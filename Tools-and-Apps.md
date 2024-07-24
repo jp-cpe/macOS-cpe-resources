@@ -62,6 +62,10 @@ Jamfcpr
   - Description:
   - Source:
 
+Jamf Pro SDK for Python:
+  - Description: A client library for the Jamf Pro APIs and webhooks.
+  - Source: https://github.com/macadmins/jamf-pro-sdk-python
+
 JamfStatus
   - Description: Keep an eye on the status of Jamf Cloud with jamfStatus. The app will place an icon in the menu bar to reflect the current cloud status.
   - Source: https://github.com/jamf/jamfStatus
@@ -74,6 +78,10 @@ Microsoft Remote Desktop:
   - Description:
   - Source:
   - How to Install via HomeBrew: brew install --cask microsoft-remote-desktop
+
+macOS Intune Support Assistant (MISA):
+  - Description: MISA (macOS Intune Support Assistant) is a comprehensive tool designed to streamline and enhance your macOS Intune management experience. It provides a variety of features to assist with device management, software updates, user accounts, and much more, all in an intuitive and user-friendly interface.
+  - Source: https://github.com/pathaksomesh06/MISA
 
 MUT
   - Description: The MUT is a native macOS application written in Swift, which allows Jamf admins to make mass updates to attributes (such as username, asset tag, or extension attribute) of their devices and users in Jamf.
@@ -117,9 +125,17 @@ ReEnroller
   - Description: Easily migrate a computer from one Jamf server to another.
   - Source: https://github.com/jamf/ReEnroller
 
+Show Me Your ID 3.0
+  - Description: This app will provide you with the Bundle ID, Team ID, and the full code for an application by dragging the application to the Show Me Your ID 3.0 window. You have the option of saving the applications logo to your Desktop. This can be helpful when configuring items in Jamf Self Service as it provides a look and feels similar to the Mac App Store.
+  - Source: https://hcsonline.com/support/apps/show-me-your-id
+
 Smart Card Utility
   - Description: Easily manage your Smart Cards in macOS
   - Source: https://twocanoes.com/products/mac/smart-card-utility/
+
+SOFA
+  - Description: A MacAdmin's Simple Organized Feed for Apple Software Updates
+  - Source: https://github.com/macadmins/sofa
 
 SUS Inspector
   - Description: Inspect Apple macOS software updates.
